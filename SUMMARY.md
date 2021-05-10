@@ -7,4 +7,5 @@
 * [Diagrams](diagrams.md)
 * [Documentation](documentation.md)
 * [Meetings](meetings.md)
+* [UI Mockups](ui-mockups.md)
 
