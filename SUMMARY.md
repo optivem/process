@@ -5,4 +5,5 @@
 * [Workflow](workflow.md)
 * [Approaches](approaches.md)
 * [Meetings](meetings.md)
+* [Proposals / Contracts](proposals-contracts.md)
 
