@@ -5,4 +5,5 @@
 * [Workflow](workflow.md)
 * [Approaches](approaches.md)
 * [Diagrams](diagrams.md)
+* [Documentation](documentation.md)
 
